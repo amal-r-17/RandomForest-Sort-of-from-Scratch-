@@ -8,3 +8,4 @@ The notebook provided is self explanatory and anyone could follow it.
 
 #### This is a very implementation of RandomForest and it has its shortcomigs. 
 
+#### Do feel free to add more features or make it more efficient.
